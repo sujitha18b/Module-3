@@ -1,5 +1,5 @@
 # Exp.No:3c
-## LIST - EVEN NUMBERS LIST
+## LIST - APPEND NUMBERS IN LIST
 
 
 ### AIM  
